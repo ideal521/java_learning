@@ -2,19 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2af3e7-c694-4ed4-b9e3-73f3a4961642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/IOUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkReceive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkSend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpFileClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpFileServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpTalkClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpTalkServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/Net_study03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/Net_study03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,62 +71,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpTalkClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="38" column="9" selection-start-line="27" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkSend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkReceive.java">
+        <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Chat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="332">
+              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkStudent.java">
+        <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="259">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkTeacher.java">
+        <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Send.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpTalkServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="38" column="23" selection-start-line="22" selection-start-column="8" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="407">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -141,6 +134,35 @@
         <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkReceive.java" />
         <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkStudent.java" />
         <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkTeacher.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Client.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Server.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginClient.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginServer.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWaysClient.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayServer.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayClient.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileClient.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileServer.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiServer.java" />
+        <option value="$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Client.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Chat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/chat01/MultiChat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiChat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiChat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiChat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Utils.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiChat.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Send.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Receive.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/TMultiClient.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Client.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Send.java" />
+        <option value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Chat.java" />
       </list>
     </option>
   </component>
@@ -178,58 +200,58 @@
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Net_study02" type="462c0819:PsiDirectoryNode" />
+              <item name="Net_study03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Net_study02" type="462c0819:PsiDirectoryNode" />
+              <item name="Net_study03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
+              <item name="Net_study03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="sxt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
+              <item name="Net_study03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="sxt" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="chat04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Server_study01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sxt" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +265,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Net_study02/src/com/sxt/udp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Net_study03/src/com/sxt/chat04" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -253,11 +275,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sxt.chat02" />
+      <recent name="com.sxt.chat01" />
+      <recent name="com.sxt.tcp" />
       <recent name="com.sxt.udp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\java_learning\Net_study02\src\com\sxt\udp" />
-      <recent name="D:\Projects\ssmlearning\servlet\homework\lidexin\servlet_lidexin\java_learning\Net_study02\src\com\sxt\udp" />
+      <recent name="D:\Projects\java_learning\Net_study03\src\com\sxt\chat04" />
+      <recent name="D:\Projects\java_learning\Net_study03\src\com\sxt\chat03" />
+      <recent name="D:\Projects\java_learning\Net_study03\src\com\sxt\chat02" />
+      <recent name="D:\Projects\java_learning\Net_study03\src" />
+      <recent name="D:\Projects\java_learning\Net_study03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,13 +300,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TalkStudent">
-    <configuration name="TalkStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sxt.udp.TalkStudent" />
-      <module name="Net_study02" />
+  <component name="RunManager" selected="Application.Client-test">
+    <configuration name="Chat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat04.Chat" />
+      <module name="Net_study03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sxt.udp.*" />
+          <option name="PATTERN" value="com.sxt.chat04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TalkTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sxt.udp.TalkTeacher" />
-      <module name="Net_study02" />
+    <configuration name="Client-haha" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat04.Client" />
+      <module name="Net_study03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sxt.udp.*" />
+          <option name="PATTERN" value="com.sxt.chat04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpFileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sxt.udp.UdpFileClient" />
-      <module name="Net_study02" />
+    <configuration name="Client-test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat04.Client" />
+      <module name="Net_study03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sxt.udp.*" />
+          <option name="PATTERN" value="com.sxt.chat04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpTalkClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sxt.udp.UdpTalkClient" />
-      <module name="Net_study02" />
+    <configuration name="TMultiClient (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat03.TMultiClient" />
+      <module name="Net_study03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sxt.udp.*" />
+          <option name="PATTERN" value="com.sxt.chat03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpTalkServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sxt.udp.UdpTalkServer" />
-      <module name="Net_study02" />
+    <configuration name="TMultiClient" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat03.TMultiClient" />
+      <module name="Net_study03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sxt.udp.*" />
+          <option name="PATTERN" value="com.sxt.chat03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,13 +366,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="client-Ideal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.chat04.Client" />
+      <module name="Net_study03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.chat04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TMultiClient" />
+      <item itemvalue="Application.TMultiClient (1)" />
+      <item itemvalue="Application.client-Ideal" />
+      <item itemvalue="Application.Client-haha" />
+      <item itemvalue="Application.Chat" />
+      <item itemvalue="Application.Client-test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TalkStudent" />
-        <item itemvalue="Application.TalkTeacher" />
-        <item itemvalue="Application.UdpTalkClient" />
-        <item itemvalue="Application.UdpTalkServer" />
-        <item itemvalue="Application.UdpFileClient" />
+        <item itemvalue="Application.Client-test" />
+        <item itemvalue="Application.Chat" />
       </list>
     </recent_temporary>
   </component>
@@ -360,18 +406,26 @@
       <updated>1563274016404</updated>
       <workItem from="1563274018118" duration="6918000" />
       <workItem from="1563326333215" duration="6169000" />
-      <workItem from="1563333960429" duration="2294000" />
+      <workItem from="1563333960429" duration="19573000" />
     </task>
+    <task id="LOCAL-00001" summary="增加UDP双向通信逻辑">
+      <created>1563347726030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563347726031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15381000" />
+    <option name="totallyTimeSpent" value="32660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -384,20 +438,20 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50053304" side_tool="true" weight="0.2832618" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32939914" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" x="1942" y="347" width="1876" height="356" id="Run" order="14" visible="true" weight="0.40021458" />
+      <window_info active="true" anchor="bottom" x="1942" y="347" width="1876" height="356" id="Run" order="14" sideWeight="0.49946696" visible="true" weight="0.31330472" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
@@ -407,6 +461,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加UDP双向通信逻辑" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加UDP双向通信逻辑" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -439,113 +497,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Net_study01/src/com/sxt/loc/IPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study01/src/com/sxt/loc/PortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study01/src/com/sxt/loc/URLTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study01/src/com/sxt/loc/SpiderTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study01/src/com/sxt/loc/SpiderTest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpTypeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpObjServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server_study01/src/com/sxt/server/basic/ReflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server_study01/src/com/sxt/server/basic/p.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server_study01/src/com/sxt/server/basic/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Server_study01/src/com/sxt/server/basic/XmlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpObjClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Net_study02/src/tou.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -561,13 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpFileClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -638,11 +582,277 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/TalkReceive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="375">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/udp/UdpFileClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="28" column="89" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/FileClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="class#Receive#0;class#LoginMultiClient#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginMultiServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study02/src/com/sxt/tcp/LoginTwoWayServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/Chat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/chat02/Chat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/chat01/Chat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/chat01/MultiClient.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/chat01/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/chat01/MultiChat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/MultiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat01/MultiChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat02/TMultiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/DataOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="45" column="51" lean-forward="true" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/TMultiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat03/Receive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Utils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Receive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Net_study03/src/com/sxt/chat04/Chat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
